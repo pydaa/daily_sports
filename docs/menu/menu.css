@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+
+body {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0;
+}
+
+.rog {
+	float: right;
+	margin-top: 35px;
+	margin-right: 35px;
+}
+
+.btn1 {
+	width: 80%;
+	margin:30% auto;
+}
+
+.btn2 {
+	width: 80%;
+	margin:30% auto;
+}
+
+.btn1 img, .btn2 img {
+	width: 100%;
+}
+
+.wrapper{
+	width : 100%;
+	background-size: cover;
+	padding-top: 20px;
+}

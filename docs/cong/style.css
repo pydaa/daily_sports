@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+	background-image: url('../resource/1543711983983.png');
+	background-size: cover;
+}
+
+div {
+	margin-top: 160%;
+
+}

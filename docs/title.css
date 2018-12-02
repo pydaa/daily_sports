@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@import(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+body {
+	background-color: #3d5afe;
+	background-image: url("resource/title.png");
+	background-size: cover;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 100%;
+}
+
+div {
+	height: device-height;
+	width: device-width;
+	text-align: center;
+	margin-top: 110%;
+}
+
+button {
+	height: auto;
+	width: 80%;
+	boader: 3px;
+	margin: 10px;
+	font-size: 400%;
+	border-radius: 50px;
+}
+
+#login {
+	background-color: white;
+	font-color: #3d5afe;
+}
+
+#register-twitter {
+	background-color: #3d5afe;
+	font-color: white;
+}
+
+#register-facebook {
+	background-color: #3b5998;
+	font-color: white;
+}

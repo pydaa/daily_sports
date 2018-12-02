@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@import(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 100%;
+}
+
+#page-title {
+	border-radius: 50px;
+	background-color: #3d5afe
+
+}
